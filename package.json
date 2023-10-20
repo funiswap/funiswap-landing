@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build index.html"
   },
   "dependencies": {
     "@types/react": "^16.4.14",
